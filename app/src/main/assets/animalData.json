@@ -1,0 +1,402 @@
+[
+  {
+    "id": "RingTailedLemur",
+    "name":"Ring-Tailed Lemur",
+    "conservationStatus": 4,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Ring-tailed%20lemur",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Ring-tailed_lemur",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/r/ring-tailed-lemur/",
+    "wwfLink": "https://www.worldwildlife.org/photos/ring-tailed-lemur-madagascar",
+    "description": "Getting it's name from the rings on its tail, these herbivores are found on the island of Madagascar.\n\nDespite looking like a racoon, the ring-tailed lemur is actually a primate. Their family structure is lead by the female, with the males then being ranked based on their age.\n\nThe main treat to the ring-tailed lemur has been the deforestation happening on the island. Additionally, they have been hunted for food from both their natural predators and from humans."
+  },
+  {
+    "id": "AfricanPenguin",
+    "name":"African Penguin",
+    "conservationStatus": 4,
+    "torontoZooLink": "https://www.torontozoo.com/animals/African%20Penguin",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/African_penguin",
+	"nationGerographicLink": "",
+    "wwfLink": "https://www.worldwildlife.org/species/penguin",
+    "description": "Previously known as the Jacka** penguin, these animals are found along the coast and islands of southern Africa and Namibia.\n\nMost penguins are situated in the south pole, southern Australia and the surrounding islands, and the south-west part of south America. However, the African Penguin is the only penguin who lives in Africa, hence the name.\n\nIn the past, most of the treats had been from the collection of their eggs. Nowadays, collection of their eggs is prohibited."
+  },
+  {
+    "id": "SpottedHyena",
+    "name":"Spotted Hyena",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Spotted%20hyena",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Spotted_hyena",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/s/spotted-hyena/",
+    "wwfLink": "",
+    "description": "The spotted hyena is the largest hyena species. They reside in the southern parts of African in the Sahara.\n\nEven though they resemble dogs, hyenas are actually more closely related to cats. Primarily hunters, they will occasionally scavenge if the need arises. They also have their own form of communication they use to talk with other hyenas. They will use combinations of ear and tail positions in addition to their posture.\n\nAs they are hunters, most of the threats have been from those trying to protect their livestock. However, this hasn’t been enough to significantly threaten their species."
+  },
+  {
+    "id": "GreyNeckedCrownedCrane",
+    "name":"Grey-Necked Crowned Crane",
+    "conservationStatus": 4,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Grey-necked%20crowned%20crane",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Grey_crowned_crane",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/birds/g/gray-crowned-crane/",
+    "wwfLink": "",
+    "description": "The Grey-necked crowned crane can be found in many parts of Africa, including around Zimbabwe, The Democratic Republic of the Congo, and even Malawi.\n\nWith their habitat being converted to farmland, they are very much endangered. Additionally, the bird trade has affected them quite a bit due to the desire for their features. Lastly, they have been seen as status symbols and thus having one as a pet or served as a meal has unfortunately been seen as fashionable."
+  },
+  {
+    "id": "GrevysZebra",
+    "name":"Grévy's Zebra",
+    "conservationStatus": 4,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Grevy's%20Zebra",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Gr%C3%A9vy%27s_zebra",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/g/grevy-s-zebra/",
+    "wwfLink": "",
+    "description": "The Grévy's zebra is named after Jules Grévy, the then president of France from 1879 to 1887. Compared to other species of zebras, Grévy's zebra has larger ears and thinner stripes. When first born, their stripes are brown but as they age, they darken until they become black.\n\n They are located in the eastern part of Africa, around Ethiopia and Kenya.\n\nIn addition to being hunted for food, they have been become increasingly endangered in the last couple decades due to disturbances in their habitat from tourists and farming."
+  },
+  {
+    "id": "OliveBaboon",
+    "name":"Olive Baboon",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Olive%20baboon",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Olive_baboon",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The Olive Baboon is found all across Africa are able to live in multiple habitats including savannas, cliffs, forests, and deserts.\n\nOlive Baboons are omnivorous and will eat pretty much anything. Grass, small insects and invertebrates, eggs, birds, and even other primates. They are hunters and will even work in groups to take down larger pray. They are also able to store food in pouches in their cheeks.\n\nAs they are predators themselves, most of their threats in the wild are other large animals like lions and crocodiles. Additionally, they are losing a lot of their homes due to human expansion. They are also hunted for sport."
+  },
+  {
+    "id": "WestLowlandGorilla",
+    "name":"West Lowland Gorilla",
+    "conservationStatus": 5,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Western%20lowland%20gorilla",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Western_lowland_gorilla",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/w/western-lowland-gorilla/",
+    "wwfLink": "https://www.worldwildlife.org/species/western-lowland-gorilla",
+    "description": "The West Lowland Gorilla's are located around the Congo River basin in the western area of Africa.\n\nBeing herbivores, they eat primarily eat stems, leaves, and fruits.\n\nLike many species in Africa, the West Lowland Gorilla's habitat is threatened by human expansion. They have also been hunted for meat along side being considered luxury pets."
+  },
+  {
+    "id": "NakedMoleRat",
+    "name":"Naked Mole Rat",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Naked%20mole-rat",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Naked_mole-rat",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "These creatures are also known as Sand Puppies and the Desert Mole Rat. Colonies of naked mole rats are led by a queen who is the largest of those in their colony.\n\nThey are located within the central and eastern parts of Africa in the savannahs and grasslands, though they do mainly live underground in a burrow network.\n\nBeing rodents, they are great in numbers and thus are not as threatened when compared to other African animals. They will generally build their homes far away from cities and farms."
+  },
+  {
+    "id": "Ostrich",
+    "name":"Ostrich",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Ostrich",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Ostrich",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/birds/o/ostrich/",
+    "wwfLink": "",
+    "description": "The largest of all species of birds, Ostriches are found only in the southern parts of Africa in the open savannahs. They can reach speeds of up to 80 kph.\n\nThey can live in groups of up to 50 members. The males have black features while the females will have brown. Like other birds, Ostriches will eat fruits, hard plants, and even small invertebrates.\n\nThough human expansion has been a treat to them, as they are not considered pests to farms, they aren’t actively hunted. Additionally, ostrich farms have been created thus minimizing the hunting for wild ostriches for their feathers, meat, and eggs."
+  },
+  {
+    "id": "Warthog",
+    "name":"Warthog",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Warthog",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Warthog",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/w/warthog/",
+    "wwfLink": "",
+    "description": "Warthogs are found all across Africa but are primarily located around areas with sources of fresh water. Warthogs will give birth to a litter of piglets and will become sexually mature at 18 months.\n\nAs they can breed easily, warthogs are seen by some to be pests. Due to the destruction to crops, some have organized hunting groups specifically to hunt them to protect farms. Thus, they are not a threaten species."
+  },
+  {
+    "id": "GoldBreastedStarling",
+    "name":"Gold Breasted Starling",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Warthog",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Starling",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Also known as the Superb Starling, this species can be found in the savannas of Africa.\n\nTheir diet is primarily made up of insects.\n\nDue to being considered one of the most beautiful birds in the world, they have been subjected to the bird trade."
+  },
+  {
+    "id": "AfricanLion",
+    "name":"African Lion",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/African%20lion",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Lion",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/a/african-lion/",
+    "wwfLink": "https://www.worldwildlife.org/blogs/good-nature-travel/posts/ten-interesting-facts-about-lions",
+    "description": "Probably one of the most popular animals in Africa, the African Lions found in the areas south of the Savanah. The males have large manes while the females lack them.\n\nBeing a large predator, they will hunt large animals like zebras and antelope. If food is scarce however, they will hunt smaller animals or even scavenge. Having amazing senses, they can be very dangerous at long range, at night, and can even ambush from the trees.\n\nIn addition to being threatened due to human expansion, they are hunted for sport. Being a large and dangerous predator, they have become popular with game hunters."
+  },
+  {
+    "id": "SpeckledMousebird",
+    "name":"Speckled Mousebird",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Speckled%20mousebird",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Speckled_mousebird",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Despite being called Speckled, they don’t show any spots or speckles. They can be found across Africa south of Nigeria. \n\nLike pigeons, human expansion has benefited the Speckled Mousebird. However, they have quickly become considered pests by some. Despite this, they have still been able to flourish and are not considered threatened."
+  },
+  {
+    "id": "WestAfricanDwarfCrocodile",
+    "name":"West African Dwarf Crocodile",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/West%20African%20dwarf%20crocodile",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Dwarf_crocodile",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The West African Dwarf Crocodile is the smallest of all species of crocodiles, hence the name.\n\nThey are located in the rainforests of Africa along side the swamps and rivers. Their diet consists of fish and other small animals. They are heavily armoured and have 64 sharp teeth which they are able to regrow throughout their lives.\n\nThough there are some who hunt them for their hide, there hasn’t been as much demand it. However, this has created unfavorable consequences where even though there isn’t a demand, and thus sustainable farming of crocodile hide is not been established, the hunting of crocodiles still persists by locals. Thankfully, they are usually located in harder to reach areas and thus have not been exploited."
+  },
+  {
+    "id": "SpottedNeckOtter",
+    "name":"Spotted Neck Otter",
+    "conservationStatus": 2,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Spotted-necked%20Otter",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Spotted-necked_otter",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The Spotted Neck Otter is located in the lakes of central and south eastern parts of Africa.\n\nBeing an aquatic mammal, they diet is made up of fish and other small aquatic animals like instects and frogs. Compared to other otters who hunt shellfish, the spotted neck otter has sharp teeth and thus are more suited for hunting fish.\n\nHunted for their skins and for being considered pest by fishermen they are considered near threatened. "
+  },
+  {
+    "id": "RoyalPython",
+    "name":"Royal Python",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Royal%20python",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Ball_python",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Found in the central to western parts of Africa, the Royal Python is native to the Nile area hence they have historically been important culturally to those that have lived there.\n\nAlso known as the Ball Python, they will live in burrows and will move into the water when they need to cool down. Like many other pythons, they will wrap themselves around pray to constrict air. They are however nonpoisonous.\n\nLocally, they are hunted for their skins. However, they have also been captured for the international pet trade as they are considered luxury pets."
+  },
+  {
+    "id": "NileSoftShelledTurtle",
+    "name":"Nile Soft-Shelled Turtle",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Nile%20soft-shelled%20turtle",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/African_softshell_turtle",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Compared to other turtles, the Nile Soft-Shelled Turtle has a thick leathery skin in place of a hard shell.\n\nThey can be found in multiple locations including the Nile, the Atlantic Ocean to the west of Africa, and even in the Mediterranean Sea to the north. They are a highly adapted species.\n\nDispite this adaptability, they are vulnerable. They are commonly caught in fishermen nets. They are also hunted for the soft shells."
+  },
+  {
+    "id": "Ngege",
+    "name":"Ngege",
+    "conservationStatus": 0,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Ngege",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Oreochromis_esculentus",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Also called Tilapia, Ngege are found in many places in Africa that contain water. Their status is unknown, but they have been believed to be threatened due to overfishing. Groups in Africa have taken measures to preserve them through breeding programs."
+  },
+  {
+    "id": "RedRiverHog",
+    "name":"Red River Hog",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Red%20river%20hog",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Red_river_hog",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Located across Africa, the Red River Hog can be found in forests, swamps, and the savanna. They are a very adaptable species.\n\nLike other small mammals, they are hunted by larger predators. But due to their tusks, they are able to defend themselves and have been known to chase off predators."
+  },
+  {
+    "id": "AldabraTortoise",
+    "name":"Aldabra Tortoise",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Aldabra%20tortoise",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Aldabra_giant_tortoise",
+    "wwfLink": "https://www.worldwildlife.org/species/giant-tortoise",
+	"nationGerographicLink": "",
+    "description": "The Aldabra Tortoise is one of the largest species of tortoises in the world. Found on the Aldabra Atoll, hence the name, they feed on plants but will eat small invertebrates if its available. They are also capable of going without food and water if the need arises.\n\nThough the Atoll is considered a UNESCO World Heritage site, the Aldabra Tortoise is still considered vulnerable. It is common for ships to arrive and capture them and foreign species have also been introduced that threaten their well being. Additionally, climate change is predicted to affect them in the future."
+  },
+  {
+    "id": "AfricanClawedFrog",
+    "name":"African Clawed Frog",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/African%20clawed%20frog",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/African_clawed_frog",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The African Clawed Frog has been introduced in many locations around the world including the North America, Europe, and South America. Because of this, they are considered a invasive species.\n\nThey are carnivores and will scavenge. They will even eat other animals alive if given the chance.\n\nBeing an invasive species around the world, the African Clawed Frog is not considered threatened an instead is considered by some to be a pest."
+  },
+  {
+    "id": "LakeMalawiCichlids",
+    "name":"Lake Malawi Cichlids",
+    "conservationStatus": 2,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Lake%20Malawi%20cichlids",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Cichlid",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": ""
+  },
+  {
+    "id": "SlenderTailedMeerkat",
+    "name":"Slender-Tailed Meerkat",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Slender-tailed%20meerkat",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Meerkat",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Also called the Mbuna Cichlids, they are located primarily in Lake Malawi in the south east of Africa, hence their common name.\n\nAs the are located in only one area, they are not as widespread when compared to other species. Due to overfishing and water pollution from farms, they are considered near threatened."
+  },
+  {
+    "id": "BlackCrake",
+    "name":"Black Crake",
+    "conservationStatus": 1,
+    "torontoZooLink": "",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Black_crake",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The Black Crake is found in many areas of Africa though they are not found in the more desert areas.\n\nTheir needle like beak has allowed them to break open shellfish, though they will also eat other aquatic animals like fish.\n\nThey are not a threatened species though they are sometimes hunted for traditional medicine."
+  },
+  {
+    "id": "BlueBelliedRoller",
+    "name":"Blue-Bellied Roller",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Black%20Crake",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Blue-bellied_roller",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The Blue Bellied Roller is found in many parts of Africa though they will prefer humid areas.\n\nPreferring wetlands, human urbanization and agriculture has been a threat to this species."
+  },
+  {
+    "id": "PygmyHippopotamus",
+    "name":"Pygmy Hippopotamus",
+    "conservationStatus": 4,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Pygmy%20hippopotamus",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Pygmy_hippopotamus",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Resembling the River Hippopotamus, another African Species, they are much smaller and have rounder faces.\n\nFound in the western Africa in wetter areas like rainforests and swamps.\n\nCompared to the River Hippo and living in wet areas, the Pygmy Hippo is not primarily aquatic. They will sleep in the mornings and will be active mainly in the afternoon until midnight. Like cows, they have multiple chambers to their stomachs.\n\nThey are an endangered species due to logging and hunting."
+  },
+  {
+    "id": "GreaterKudu",
+    "name":"Greater Kudu",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Greater%20kudu",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Greater_kudu",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The second largest of all antelope species, the Greater Kudu is found in nearly all of Africa.\n\nThey are well known for their antlers which only the males have. Being very social animals, they will travel in herds.\n\nEven though they have been hunted by predators and humans, they are not considered threatened."
+  },
+  {
+    "id": "SacredIbis",
+    "name":"Sacred Ibis",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Sacred%20ibis",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/African_sacred_ibis",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The Sacred Ibis has strong cultural ties to ancient Egypt. The god of magic and wisdom Thoth is frequently depicted as a Sacred Ibis. They would be sacrificed in great numbers and mummified alongside the dead. Thus, their bodies have been found in many tombs.\n\nThey are not a threaten species, though their numbers have decreased in recent years due to hunters and the destruction of their habitat."
+  },
+  {
+    "id": "Cheetah",
+    "name":"Cheetah",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Cheetah",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Cheetah",
+	"nationGerographicLink": "https://kids.nationalgeographic.com/animals/mammals/cheetah/",
+    "wwfLink": "",
+    "description": "The Cheetah is found in only the areas of central, eastern, and the south west of Africa where there are open savannas.\n\nBeing a large predator, they will hunt large animals like gazelles and antelopes. They are known for their speeds being able to reach 112 kph. They are very dangerous and pray will be first knocked by a charge and they slashed at the throat.\n\nDue to their dangerous nature, they are hunted as trophies. Additionally, hunters have been known to kill them as farm animals are easy pray for Cheetahs."
+  },
+  {
+    "id": "SouthernGroundHornbill",
+    "name":"Southern Ground Hornbill",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Southern%20Ground%20hornbill",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Southern_ground_hornbill",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/birds/s/southern-ground-hornbill/",
+    "wwfLink": "",
+    "description": "The largest of all hornbill species, the Southern Ground Hornbell is found in the grasslands and savannas of Africa.\n\nCompared to other animals who will have many mates, the Southern Ground Hornbill will have a single permanent mate. They have been seen having courtship rituals.\n\nDue to their large size and cultural reasons, they have been hunted to the pointe where they are considered vulnerable. Their size also restricts their ability to spread across the continent as they require large amounts of space to live."
+  },
+  {
+    "id": "WhiteRhinoceros",
+    "name":"White Rhinoceros",
+    "conservationStatus": 2,
+    "torontoZooLink": "https://www.torontozoo.com/animals/White%20rhinoceros",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/White_rhinoceros",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/w/white-rhinoceros/",
+    "wwfLink": "https://www.worldwildlife.org/species/white-rhino",
+    "description": "Second heaviest and third largest land animal, the White Rhinoceros are found in the north and south regions of Africa where the two groups are considered separate subspecies.\n\nThough their gray skin could be considered the reason for their name, it actually comes from the local word for them Wyt which means wide. Compared to the other rhino, the black rhino, the white rhino has a wider face hence the local name.\n\nTheir horns are used in traditional medicine and for decorative use. Though hunting them is illegal, poaching still persists that they are now considered a threatened species. Due to their large size, the only predators they have to deal with are humans."
+  },
+  {
+    "id": "RiverHippopotamus",
+    "name":"River Hippopotamus",
+    "conservationStatus": 3,
+    "torontoZooLink": "https://www.torontozoo.com/animals/River%20hippopotamus",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Hippopotamus",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/mammals/h/hippopotamus/",
+    "wwfLink": "https://www.worldwildlife.org/species/hippopotamus",
+    "description": "Third heaviest land mammal, the River Hippopotamus is found south of the Sahara Desert in the lakes, rivers, and ponds of Africa.\n\nBeing herbivores and aquatic, they oddly do not eat aquatic plants but instead fruit and land vegetation. Their large teeth and aggressive nature make them one of the most dangerous animals in Africa.\n\nPoaching is a major threat to the River Hippo due to their meat and their ivory. Being a dangerous animal has also made them a target for big game hunters."
+  },
+  {
+    "id": "WhiteCheekedTuraco",
+    "name":"White Cheeked Turaco",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/White-cheeked%20turaco",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/White-cheeked_turaco",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Located in the wetlands of Africa, the White Cheeked Turaco is a very widespread bird. They are not considered threatened, but continual deforestation and being hunted for their feathers has been a concern."
+  },
+  {
+    "id": "MellersChameleon",
+    "name":"Mellers Chameleon",
+    "conservationStatus": 0,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Meller's%20chameleon",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Meller%27s_chameleon",
+	"nationGerographicLink": "https://www.nationalgeographic.com/animals/reptiles/m/mellers-chameleon/",
+    "wwfLink": "",
+    "description": "Found only in Tanzania, Meller’s Chameleon are very solitary and territorial.\n\nThey are a large reptile and have been known to eat small birds. Able to change their colour, Meller’s Chameleon can communicate with others whether it be an aggressive black, to a submissive yellow.\n\nIt is illegal to capture this species, but that hasn’t stopped poachers from capturing them as they have become popular as pets. However, they are adapted for only one location and can become stressed from travel that they can easily die if removed."
+  },
+  {
+    "id": "MasaiGiraffe",
+    "name":"Masai Giraffe",
+    "conservationStatus": 4,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Masai%20giraffe",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Masai_giraffe",
+	"nationGerographicLink": "",
+    "wwfLink": "https://www.worldwildlife.org/pages/species-spotlight-giraffe",
+    "description": "The tallest of all land mammals, the Masai Giraffe is known for their distinct patterns. They posses small horns on their heads which both sexes have, something that is rare as usually species with horns will only have then in the males.\n\nThey prefer dry open areas and are found usually in the Saharan areas and in Kenya and Tanzania.\n\nHuman expansion and poachers along side natural predators are their main threats. Though efforts to protect them in national parks, illegal poaching is till a major issue. Their hide is used to make many things that they have become endangered."
+  },
+  {
+    "id": "StrawColouredFruitBat",
+    "name":"Straw Coloured Fruit Bat",
+    "conservationStatus": 2,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Straw%20coloured%20fruit%20bat",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Straw-coloured_fruit_bat",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Found in many parts of Africa, the Straw Coloured Fruit Bat will primarily eat fruits like figs, mangoes, and will even eat wood.\n\nTheir wings allow them to reach high heights. They will migrate with the rain and can be seen in large groups.\n\nThey are considered threatened due to being hunted for meat and by farmers as they have been a threat to fruit farming. They are also killed for cultural and religious reasons."
+  },
+  {
+    "id": "MarabouStork",
+    "name":"Marabou Stork",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Marabou%20stork",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Marabou_stork",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Also referred to as the Undertaker bird due to their appearance, the Marabou Stork is a large scavenger bird who will eat nearly any animal, whether they be dead, dying, or even alive.\n\nThey are found primarily in the Sahara and the Western coast.\n\nThough they are not threatened, their population has been greatly affected by humans. With the overhunting of other animals, there has been less for them to scavenge. However, with urbanization they have a greater access to food waste."
+  },
+  {
+    "id": "WhiteBreastedCormorant",
+    "name":"White-Breasted Cormorant",
+    "conservationStatus": 0,
+    "torontoZooLink": "https://www.torontozoo.com/animals/White-breasted%20cormorant",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/White-breasted_cormorant",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "Found in the Saharan region of Africa, the White Breasted Cormorant is a subspecies of the Cormorant species of bird.\n\nThough they are occasionally hunted, they are not overly threatened."
+  },
+  {
+    "id": "WhiteHeadedVulture",
+    "name":"White-Headed Vulture",
+    "conservationStatus": 5,
+    "torontoZooLink": "https://www.torontozoo.com/animals/White-headed%20vulture",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/White-headed_vulture",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The White Headed Vulture has the look of the classic vulture. Being scavengers, they will eat even the bones of the dead. They have been known to also fight other scavengers for food. They are very territorial and aggressive.\n\nThey are found in the Saharan and in the north east parts of southern Africa.\n\nCompared to other birds, the White Headed Vulture has no feathers on their face which is a benefit as they then don’t have to clean their faces when they eat. Their stomach acid is also more corrosive then other animals allowing them to not be harmed by infected carcases.\n\nThe White Headed Vulture is Critically Endangered. This is due to the ever-increasing destruction of their habitat and the habitat of their food supply. Additionally, they have been targeted by farmers who believe they are a threat to their cattle even though they are not."
+  },
+  {
+    "id": "Hamerkop",
+    "name":"Hamerkop",
+    "conservationStatus": 1,
+    "torontoZooLink": "https://www.torontozoo.com/animals/Hamerkop",
+    "wikipediaLink": "https://en.wikipedia.org/wiki/Hamerkop",
+	"nationGerographicLink": "",
+    "wwfLink": "",
+    "description": "The smallest of all storks, the Hamerkop is still impressive with their defining large bill.\n\nThey are found in Ethiopia and even Madagascar. They prefer wetter areas and are not known to migrate. Their diets reflect this are consist of aquatic animals and fish.\n\nThough they are not threaten, water pollution is a major possible threat for them."
+  }
+]

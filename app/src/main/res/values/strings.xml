@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Zoopedia</string>
+    <string name="zoopediaKey">cmac_zoopedia</string>
+
+    <string name="btn_return">Return</string>
+    <string name="optionTitle">Options</string>
+<string-array name="sa_options">
+    <item
+        >About</item>
+    <item
+        >Clear Data</item>
+    <item
+        >Complete Collection</item>
+</string-array>
+
+    <string name="about_title">About</string>
+    <string name="about_text">Charles Mark Colling Dec 2020
+        \nConservation information has been taken from the IUCN Red List of Threatened Species
+    \nhttps://www.iucnredlist.org/
+    \nAnimal information has been taken from the Toronto Zoo
+    \nhttps://www.torontozoo.com/</string>
+
+    <string name="txt_details_learnMore">Learn More?</string>
+    <string name="txt_details_zoo">Learn more at the Toronto Zoo?</string>
+    <string name="txt_details_wiki">Learn more at Wikipedia?</string>
+    <string name="txt_details_wwf">Learn more at the World Wide Fund for Nature?</string>
+    <string name="txt_details_ng">Learn more at National Geographic?</string>
+    <string name="txt_details_yes">OK</string>
+    <string name="txt_details_no">No thank you</string>
+
+    <string name="status_0">Unknown Conservation Status</string>
+    <string name="status_0_desc">Not enough information has been collected for this species. This may be due to a lack of data</string>
+    <string name="status_1">Least Concern</string>
+    <string name="status_1_desc">This species is not considered endangered or threatened</string>
+    <string name="status_2">Near Threatened</string>
+    <string name="status_2_desc">This species is close to becoming vulnerable in the near future</string>
+    <string name="status_3">Vulnerable</string>
+    <string name="status_3_desc">There is a possibility of this species becoming extinct in the wild</string>
+    <string name="status_4">Endangered</string>
+    <string name="status_4_desc">There is a very high chance this species will become extinct in the wild</string>
+    <string name="status_5">Critically Endangered</string>
+    <string name="status_5_desc">There is an extremely high chance of this species becoming extinct in the wild</string>
+    <string name="status_6">Extinct in the Wild</string>
+    <string name="status_6_desc">This species is considered extinct in the wild. It\'s species exists only in captivity</string>
+    <string name="status_7">Extinct</string>
+    <string name="status_7_desc">This species no longer exists as there have been no records of this species in some time</string>
+    <string name="conservationLearnMore">Learn more at IUCN Red List</string>
+
+</resources>
